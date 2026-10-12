@@ -1,6 +1,6 @@
 # Hiya Patel, unboxed.
 
-An interactive React portfolio for Hiya Patel. The visual reference is [Harpreet Jaggi’s portfolio](https://www.harpreetjaggi.in/); application logic, React components, styles, and Hiya’s content were written for this project.
+An interactive React portfolio for Hiya Patel.
 
 ## Run locally
 
